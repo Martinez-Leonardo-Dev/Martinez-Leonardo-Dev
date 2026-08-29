@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Leonardo Martinez
 
-<!--
-**Martinez-Leonardo-Dev/Martinez-Leonardo-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Backend Java | Spring Boot
 
-Here are some ideas to get you started:
+Graduando em Análise e Desenvolvimento de Sistemas (Estácio), focado no desenvolvimento de APIs REST escaláveis, arquitetura limpa e manipulação de dados com bancos relacionais. em busca da primeira oportunidade na área (Estágio/ Júnior).
+---
+### tecnologias & Competências
+- **Linguagens:** Java (JDK 17/21)
+- **Frameworks:** Spring boot, Spring Data JPA, Spring Security
+- **Banco de Dados:** PostgreSQL, MySQL, H2 Database
+- **Ferramentas & outros:** Git, GitHub, Maven, Postman, Docker (Básico), Junit/ Mockito
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+  ### Projetos em Destaque
+  -**(Repositórios em desenvolvimento)**
+
+  ---
+  ### Como nos Conectar
+  -**LinkedIn:**[Leonardo Martinez](https://www.linkedin.com/in/Leonardo-Martinez-dos-santos-6253B1432)
+  -**E-mail:** leonardomartinezdossantos1@gmail.com
