@@ -1,15 +1,14 @@
 # Olá, eu sou o Leonardo Martinez
 
-### Desenvolvedor Backend Java | Spring Boot
+### Desenvolvedor  Java (Em Desenvolvimento/Transição)
 
-Graduando em Análise e Desenvolvimento de Sistemas (Estácio), focado no desenvolvimento de APIs REST escaláveis, arquitetura limpa e manipulação de dados com bancos relacionais. em busca da primeira oportunidade na área (Estágio/ Júnior).
+Graduando em Análise e Desenvolvimento de Sistemas (Estácio), focado na aprendizagem Java, lógica de programação e conceitos de Programação Orientada a Objetos (POO).Busco por oportunidade no mercado de tecnologia na área (Estágio/ Júnior/ Trainee), onde possa aplicar minha dedicação, evoluir com a prática e contribuir com a equipe.
 ---
 ### tecnologias & Competências
 - **Linguagens:** Java (JDK 17/21)
-- **Frameworks:** Spring boot, Spring Data JPA, Spring Security
-- **Banco de Dados:** PostgreSQL, MySQL, H2 Database
-- **Ferramentas & outros:** Git, GitHub, Maven, Postman, Docker (Básico), Junit/ Mockito
-
+- **Conceitos:** Programação Orientada a Objetos(POO), Encapsulamento, Regras de Negócios.
+- **Banco de Dados:** PostgreSQL
+- **Ferramentas & outros:** Git, GitHub, Intellij IDEA, Sublime Text.
   ---
   ### Projetos em Destaque
   -**(Repositórios em desenvolvimento)**
