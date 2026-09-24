@@ -2,7 +2,8 @@
 
 ### Desenvolvedor  Java (Em Desenvolvimento/Transição)
 
-Graduando em Análise e Desenvolvimento de Sistemas (Estácio), focado na aprendizagem Java, lógica de programação e conceitos de Programação Orientada a Objetos (POO).Busco por oportunidade no mercado de tecnologia na área (Estágio/ Júnior/ Trainee), onde possa aplicar minha dedicação, evoluir com a prática e contribuir com a equipe.
+Graduando em Análise e Desenvolvimento de Sistemas (Estácio), focado na aprendizagem Java, lógica de programação e conceitos de Programação Orientada a Objetos (POO). Tenho grande interesse no estudo e desenvolvimento de APIs REST, ecossitema Spring boot e banco de dados relacionais. 
+Busco por oportunidade no mercado de tecnologia na área (Estágio/ Júnior/ Trainee), onde possa aplicar minha dedicação, evoluir com a prática e contribuir com a equipe.
 ---
 ### tecnologias & Competências
 - **Linguagens:** Java (JDK 17/21)
