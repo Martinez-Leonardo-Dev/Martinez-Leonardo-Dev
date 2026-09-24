@@ -12,7 +12,7 @@ Busco por oportunidade no mercado de tecnologia na área (Estágio/ Júnior/ Tra
 - **Ferramentas & outros:** Git, GitHub, Intellij IDEA, Sublime Text.
   ---
   ### Projetos em Destaque
-  - [**SistemaBancarioMain**](https://github.com/Martinez-Leonardo-Dev/SistemaBancarioMain): Aplicação desenvolvida em Java para consolidar conceitos de POO (encapsulamento, construtores, métodos e regras de negócio).
+  - [**SistemaBancarioMain**](https://github.com/Martinez-Leonardo-Dev/SistemaBancarioMain):  Aplicação desenvolvida em Java para consolidar conceitos de POO (encapsulamento, construtores, métodos e regras de negócio).
 
   ---
   ### Como nos Conectar
